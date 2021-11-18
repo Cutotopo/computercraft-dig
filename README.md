@@ -5,7 +5,7 @@ The turtle will dig the block in front of it and the block on its top, then it w
 
 Tested with ComputerCraft: Tweaked version 1.89.2 on Forge for Minecraft 1.12.2
 
-[![Pastebin link](https://img.shields.io/badge/Pastebin-zCp0UUpx-success)](https://pastebin.com/zCp0UUpx)
+[![Pastebin link](https://img.shields.io/badge/Pastebin-pwx5eYrF-success)](https://pastebin.com/pwx5eYrF)
 
 ### Installation
 To download this script, use this command:<br>
