@@ -1,5 +1,11 @@
 # computercraft-dig
-Dig a number of blocks in ComputerCraft for Minecraft
+Dig a number of blocks in ComputerCraft for Minecraft.
+
+The turtle will dig the block in front of it and the block on its top, then it will move forward of one block and repeat the process for the number of blocks to dig.
+
+### Installation
+To download this script, use this command:<br>
+\> pastebin get zCp0UUpx dig.lua
 
 ### Usage
 \> dig [number of blocks to dig]
