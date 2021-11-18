@@ -3,6 +3,10 @@ Dig a number of blocks in ComputerCraft for Minecraft.
 
 The turtle will dig the block in front of it and the block on its top, then it will move forward of one block and repeat the process for the number of blocks to dig.
 
+Tested with ComputerCraft: Tweaked version 1.89.2 on Forge for Minecraft 1.12.2
+
+[![Pastebin link](https://img.shields.io/badge/Pastebin-zCp0UUpx-success)](https://pastebin.com/zCp0UUpx)
+
 ### Installation
 To download this script, use this command:<br>
 \> pastebin get zCp0UUpx dig.lua
